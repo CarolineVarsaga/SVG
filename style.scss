@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(95, 132, 199);
+
+    .svg-container {
+        height: 50vh;
+        display: flex;
+        align-items: center;
+        
+        .letters {
+            fill: #78fcdf;
+            stroke-width: 0px;
+        }
+    }
+}
